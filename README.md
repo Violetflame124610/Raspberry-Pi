@@ -2,7 +2,7 @@
 
 ![Repo Size](https://img.shields.io/github/repo-size/Violetflame124610/raspberry-pi?color=blue)
 ![Last Commit](https://img.shields.io/github/last-commit/Violetflame124610/raspberry-pi?color=brightgreen)
-![License](https://img.shields.io/github/license/Violetflame124610/raspberry-pi?color=green)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
