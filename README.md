@@ -41,8 +41,9 @@ I focus on building real-world systems by combining:
 
 ## 🖥️ Reference Hardware Image  
 ### Raspberry Pi 5 with Active Cooler
-
-![Raspberry Pi 5 with Active Cooler](https://www.raspberrypi.com/app/uploads/2023/09/raspberry-pi-5-with-active-cooler.jpg)
+<p align="center">
+  <img src="https://www.raspberrypi.com/app/uploads/2023/09/raspberry-pi-5-with-active-cooler.jpg" width="600" alt="Raspberry Pi 5 with Active Cooler">
+</p>
 
 Make sure you are using **Raspberry Pi 5**.  
 Older boards may look similar but do not offer the same performance or features.
