@@ -58,10 +58,6 @@ Older boards may look similar but do not offer the same performance or features.
 
 ---
 
----
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
