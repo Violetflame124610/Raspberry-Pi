@@ -3,7 +3,6 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Violetflame124610/raspberry-pi?color=blue)
 ![Last Commit](https://img.shields.io/github/last-commit/Violetflame124610/raspberry-pi?color=brightgreen)
 ![License](https://img.shields.io/github/license/Violetflame124610/raspberry-pi?color=green)
-![Stars](https://img.shields.io/github/stars/Violetflame124610/raspberry-pi?style=social)
 
 ---
 
@@ -41,9 +40,8 @@ I focus on building real-world systems by combining:
 
 ## 🖥️ Reference Hardware Image  
 ### Raspberry Pi 5 with Active Cooler
-<p align="center">
-  <img src="https://www.raspberrypi.com/app/uploads/2023/09/raspberry-pi-5-with-active-cooler.jpg" width="600" alt="Raspberry Pi 5 with Active Cooler">
-</p>
+
+![5815-04](https://github.com/user-attachments/assets/97aedc9d-6bea-4bf1-b4e7-b7408a81cf5c)
 
 Make sure you are using **Raspberry Pi 5**.  
 Older boards may look similar but do not offer the same performance or features.
