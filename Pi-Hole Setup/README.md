@@ -57,3 +57,10 @@ pihole setpassword
 
 ### set ur dns as the raspberry pi's ip
 in order to make pi-hole work operate completely, u must set your dns as your raspberry pi's ip in your network settings.
+
+### Author
+Username-Violetflame124610
+Name-Dhruvagouda.Kiran.Patil
+
+### Last edited
+Time-4:53, Date-17/2/2026
