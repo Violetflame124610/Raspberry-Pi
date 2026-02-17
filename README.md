@@ -58,11 +58,17 @@ Older boards may look similar but do not offer the same performance or features.
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Violetflame124610&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Violetflame124610&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Violetflame124610&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Violetflame124610&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
